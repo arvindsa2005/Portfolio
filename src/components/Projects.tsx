@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 import { electricalProjects, internship } from '../data/content';
 
 // ── Helpers ────────────────────────────────────────────────────────────────
